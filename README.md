@@ -1,5 +1,5 @@
-# Web-Based-Learning
-Using web scraping to learn relevant foreign words about a topic.
+# Web Based Learning
+Using the internet to learn relevant Japanese words about a topic.
 ## The Idea
 As I spend time learning Japanese and writing essays about specific topics, I find myself searching for
 the appropriate terminology for the subject matter. For example if I am in need of a list of most common words for
